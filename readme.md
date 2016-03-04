@@ -2,7 +2,10 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I'm a Sr. developer at [Styla](https://twitter.com/devstyla), open source contributor to [Hoodie](https://twitter.com/hoodiehq) and ran several conferences ([RejectJS](rejectjs.org), [otsconf](otsconf.com)). 
+Also speaking a lot at conferences about [Offline First](youtube.com/watch?v=ZsMS_sviJs0). Besides that, I'm a single mother of an amazing 4y/o and huge advocate of the daughter driven development. 
+
+Twitter: [misprintedtype](https://twitter.com/misprintedtype)
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
